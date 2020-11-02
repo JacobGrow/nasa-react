@@ -7,6 +7,15 @@
   pointer-events: none;
 }
 
+
+
+.link {
+  color: #FFF;
+}
+.link:hover {
+   color: rgba(255, 255, 255, 0.946)
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;

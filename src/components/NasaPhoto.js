@@ -20,8 +20,10 @@ export default function NasaPhoto() {
     <>
     <Navbar/>
 <div className='container-fluid'>
-  <div className='row'>
-    <div className='col'>
+  <div className='row mt-1'>
+   
+    <div className='col text-center'>
+
 
   {photoData.media_type == "image" ? (
     
@@ -42,6 +44,7 @@ export default function NasaPhoto() {
       )
       
 }
+    
       </div>
     </div>
   <div className="text-center">

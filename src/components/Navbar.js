@@ -7,12 +7,12 @@ export default function Navbar() {
     <div className="row">
       <div className="col-1">
         <h5>
-        <Link to="/">Home</Link>
+        <Link className="link" to="/">Home</Link>
         </h5>
       </div>
         <div className="col-1">
         <h5>
-        <Link to="/nasaphoto">A.P.O.D.</Link>
+        <Link className="link" to="/nasaphoto">A.P.O.D.</Link>
         </h5>
         </div>
         

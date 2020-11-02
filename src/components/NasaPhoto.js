@@ -22,7 +22,7 @@ export default function NasaPhoto() {
 <div className='container-fluid'>
   <div className='row mt-1'>
    
-    <div className='col text-center'>
+    <div className='col text-left'>
 
 
   {photoData.media_type == "image" ? (

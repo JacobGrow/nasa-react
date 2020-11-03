@@ -46,7 +46,7 @@ export default function NasaPhoto() {
       // gesture="media"
       allow="encrypted-media"
       allowFullScreen
-      className="photo"
+      className="iframe-size"
       />
       )
       

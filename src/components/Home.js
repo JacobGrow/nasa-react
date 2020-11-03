@@ -20,6 +20,9 @@ export default function Home() {
             </p>
           </div>
         </div>
+        <div className="col-6">
+          <img className="img-size" src="https://c8.alamy.com/comp/W0MGM7/this-new-hubble-space-telescope-photo-released-by-nasa-shows-a-portion-of-one-of-the-largest-seen-star-birth-regions-in-the-galaxy-the-carina-nebula-towers-of-cool-hydrogen-laced-with-dust-rise-from-the-wall-of-the-nebula-captured-here-are-the-top-of-a-three-light-year-tall-pillar-of-gas-and-the-dust-that-is-being-eaten-away-by-the-brilliant-light-from-nearby-bright-stars-the-pillar-is-also-being-pushed-apart-from-within-as-infant-stars-buried-inside-it-fire-off-jets-of-gas-that-can-be-seen-streaming-from-towering-peaks-like-arrows-sailing-through-the-air-upinasa-W0MGM7.jpg"/>
+        </div>
 
       </div>
     </div>

@@ -21,7 +21,14 @@ export default function NasaPhoto() {
     <Navbar/>
 <div className='container-fluid'>
   <div className='row mt-1'>
+    <div className="col text-center">
+
+  <h1>Astronomy Picture of the Day</h1>
+    </div>
+      </div>
    
+   <div className="row">
+
     <div className='col text-left'>
 
 
@@ -46,13 +53,13 @@ export default function NasaPhoto() {
 }
     
       </div>
-    </div>
-  <div className="text-center">
+  <div className="col text-center">
     <h1 className="mt-5">{photoData.title}</h1>
     <p>{photoData.date}</p>
     <p>{photoData.explanation}</p>
   </div>
 </div>
+      </div>
 
 </>
   )

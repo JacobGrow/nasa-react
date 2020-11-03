@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 export default function Navbar() {
   return(
-    <header className="container-fluid py-3 bg-dark">
+    <header className="container-fluid py-4 bg-dark">
     <div className="row">
       <div className="col-1">
         <h5>
